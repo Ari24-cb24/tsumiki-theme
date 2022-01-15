@@ -1,0 +1,21 @@
+{
+    "name": "tsumiki",
+    "displayName": "Tsumiki",
+    "description": "A vscode theme designed for Tsumiki Miniwa",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tsumiki Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tsumiki-Theme-color-theme.json"
+            }
+        ]
+    }
+}
