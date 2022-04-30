@@ -4,6 +4,7 @@
     "description": "A vscode theme designed for Tsumiki Miniwa",
     "repository": "https://github.com/Ari24-cb24/tsumiki-theme",
     "version": "0.0.1",
+    "publisher": "AriVanHouten",
     "engines": {
         "vscode": "^1.63.0"
     },
